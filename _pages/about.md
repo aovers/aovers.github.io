@@ -32,4 +32,4 @@ announcements:
       </a>
     </div>
 </div>
-Introduction ici
+I am a researcher at [Inserm UMR Right 1098 lab](https://umr-right.com/) and a Medical Biologist in the [University Hospital of Besançon](https://www.chu-besancon.fr). I specialize in oncobiology and DNA methylation in cancer. My expertise includes bioinformatics analysis of DNA methylation data from beadchip and high-throughput sequencing, as well as the development of methylation specific digital PCR for highly sensitive analysis. 
