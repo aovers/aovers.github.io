@@ -2,36 +2,33 @@
   type: map
   contents:
     - name: Full Name
-      value:
+      value: Alexis Overs
     - name: Date of Birth
-      value:
+      value: 15th November 1990
     - name: Languages
-      value:
+      value: French, English
 
 - title: Education
   type: time_table
   contents:
-    - title: title1
-      institution: institution1
-      year: year1
+    - title: PhD
+      institution: Université Bourgogne Franche-Comté, Besançon, France
+      year: 2021-2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - "Méthylation de l'ADN tumoral circulant comme biomarqueur épigénétique des cancers"
+        - "Circulating tumor DNA methylation as epigenetics biomarker of cancers"
+    - title: MD
+      institution: Université Bourgogne Franche-Comté, Besançon, France
+      year: 2015-2020
+      description:
+      - "Biomarqueur épigénétique du cancer du côlon, analyse bioinformatique de données publiques et validation de concept"
+      - "Epigenetic biomarker of colorectal cancer, bioinformatics analysis of public database and proof of concept"
 
 - title: Experience
   type: time_table
   contents:
-    - title: title1
-      institution: institution1
-      year: year1
+    - title: Medical Biologist
+      institution: CHU Besançon, France
+      year: 2015-Today
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Oncobiology and research on DNA methylation biomarkers
