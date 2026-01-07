@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Alexis OVERS Bioinformatic Portfolio # the website title (if blank, full name will be used instead)
+title: blank # the website title (if blank, full name will be used instead)
 first_name: Alexis # A MODIFIER
 last_name: Overs, MD, PhD # A MODIFIER
 contact_note: 
