@@ -8,9 +8,9 @@ profile:
   image: RightRlogo.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p style="font-size: 0.85rem;">Bureau</p>
-    <p style="font-size: 0.85rem;">Adresse</p>
-    <p style="font-size: 0.85rem;">Code Postal, Ville, Pays</p>
+    <p style="font-size: 0.85rem;">R+2 Bat. Bleu CHU Besançon</p>
+    <p style="font-size: 0.85rem;">3 boulevard alexandre Fleming</p>
+    <p style="font-size: 0.85rem;">25000, Besançon, France</p>
     <br>
     <br>
     <br>
@@ -32,4 +32,4 @@ announcements:
       </a>
     </div>
 </div>
-I am a researcher at [Inserm UMR Right 1098 lab](https://umr-right.com/) and a Medical Biologist in the [University Hospital of Besançon](https://www.chu-besancon.fr). I specialize in oncobiology and DNA methylation in cancer. My expertise includes bioinformatics analysis of DNA methylation data from beadchip and high-throughput sequencing, as well as the development of methylation specific digital PCR for highly sensitive analysis. 
+I am a researcher at I am a researcher in the <a href="https://umr-right.com" target="_blank" rel="noopener noreferrer"> and a Medical Biologist in the <a href="hhttps://www.chu-besancon.fr" target="_blank" rel="noopener noreferrer">University hospital of Besançon</a>. I specialize in oncobiology and DNA methylation in cancer. My expertise includes bioinformatics analysis of DNA methylation data from beadchip and high-throughput sequencing, as well as the development of methylation specific digital PCR for highly sensitive analysis. 
