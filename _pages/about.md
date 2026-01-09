@@ -32,4 +32,4 @@ announcements:
       </a>
     </div>
 </div>
-I am a researcher at I am a researcher in the <a href="https://umr-right.com" target="_blank" rel="noopener noreferrer">INSERM U1098</a> and a Medical Biologist in the <a href="hhttps://www.chu-besancon.fr" target="_blank" rel="noopener noreferrer">University hospital of Besançon</a>. I specialize in oncobiology and DNA methylation in cancer. My expertise includes bioinformatics analysis of DNA methylation data from beadchip and high-throughput sequencing, as well as the development of methylation specific digital PCR for highly sensitive analysis. 
+I am a researcher at <a href="https://umr-right.com" target="_blank" rel="noopener noreferrer">INSERM U1098</a> and a Medical Biologist in the <a href="https://www.chu-besancon.fr" target="_blank" rel="noopener noreferrer">University hospital of Besançon</a>. I specialize in oncobiology and DNA methylation in cancer. My expertise includes bioinformatics analysis of DNA methylation data from beadchip and high-throughput sequencing, as well as the development of methylation specific digital PCR for highly sensitive analysis. 
